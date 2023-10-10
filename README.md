@@ -2,7 +2,8 @@
 
 ### Summary
 
-This project is a part of IBM's Data Science Professional Certification on Coursera. Throughout this project, conducted an in-depth analysis of SpaceX, known for significantly reducing aerospace manufacturing and launch costs by over 50%, with projections of a 99% reduction upon the completion of the Starship project. Then explored how SpaceX cleverly cut costs and shook up the market by creating a reusable first-stage rocket booster, which makes up 70% of the rocket's total cost, showing that smart technology can also be cost-effective. Further dove into a fun and insightful data project using Wikipedia and the SpaceX API, exploring data with the goal of predicting booster landings on drone ships. 
+This project is a part of IBM's Data Science Professional Certification on Coursera. Throughout this project, conducted an in-depth analysis of SpaceX, known for significantly reducing aerospace manufacturing and launch costs by over 50%, with projections of a 99% reduction upon the completion of the Starship project. 
+
 The analysis seeks to explore and validate SpaceX’s cost-effectiveness and the feasibility of their reusable booster technology in sustaining long-term market leadership and cost-efficient space exploration. 
 Finally, achieved certification in Data Science from IBM, which was pursued and completed within six months, demonstrating a commitment to continual learning and skill application.
 
