@@ -1,4 +1,4 @@
-![image](https://github.com/zapod838/Falcon-9/assets/45763055/61b9babe-ba58-4aaf-a8a4-75d53552868c)![image](https://github.com/zapod838/Falcon-9/assets/45763055/f4378942-b708-458c-bd9c-10af2acc50b6)# Falcon-9
+Falcon 9 Capstone Project
 
 # Summary
 
