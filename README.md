@@ -7,7 +7,7 @@ This project is a part of IBM's Data Science Professional Certification on Cours
 The analysis seeks to explore and validate SpaceX’s cost-effectiveness and the feasibility of their reusable booster technology in sustaining long-term market leadership and cost-efficient space exploration. 
 Finally, achieved certification in Data Science from IBM, which was pursued and completed within six months, demonstrating a commitment to continual learning and skill application.
 
--------
+-
 
 ### Approach
 
@@ -33,6 +33,7 @@ Finally, achieved certification in Data Science from IBM, which was pursued and 
 * Calculated the accuracy on the test data using the method “score”.
 * Same methodology is followed for Decision Tree Classifier and KNN to conclude which regression classifier works best for the given data. 
 
+-
 
 ### Results
 
